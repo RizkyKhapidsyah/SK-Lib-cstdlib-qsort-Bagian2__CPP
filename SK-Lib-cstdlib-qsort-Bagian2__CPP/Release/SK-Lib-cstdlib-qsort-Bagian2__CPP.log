@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdlib-qsort-Bagian2__CPP\SK-Lib-cstdlib-qsort-Bagian2__CPP\Source.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 41 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SK-Lib-cstdlib-qsort-Bagian2__CPP.vcxproj -> D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdlib-qsort-Bagian2__CPP\Release\SK-Lib-cstdlib-qsort-Bagian2__CPP.exe
